@@ -1,0 +1,2 @@
+# World-Air-Transport-Statistics---Data-Visualization-in-Tableau
+Using Tableau 10.0 designed and developed workbooks, dashboards, global filter page, and complex parameters based calculations. Presented key findings and insights about the Airline Traffic Data, passengers carried, luggage carried by airlines and Airport statistics. Developed Tableau workbooks to perform year over year, quarter over quarter, YTD, QTD and MTD type of analysis. 
